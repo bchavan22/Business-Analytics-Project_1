@@ -43,8 +43,8 @@ The dataset attributes have following information:
 |-----------|----------------|---------------|--------------|---------------|--------------|-------------|
 
 Row ID |	Order ID	| Order Date | Order Priority | Order Quantity | Sales | Discount | 
-Ship Mode |Profit | Unit Price | Shipping Cost | Customer Name | Province Region | Customer Segment | Product Category | Product Sub-Category | Product Name Product | Container | Product Base Margin | 
-Ship Date |
+Ship Mode |Profit | Unit Price | Shipping Cost | Customer Name | Province | Region | 
+Customer Segment | Product Category | Product Sub-Category | Product Name Product | Container | Product Base Margin | Ship Date |
 
 
 
