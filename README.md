@@ -64,18 +64,17 @@ Ship Date |			|
 
 **Action Plans:**
 
-• I am planning to use Exploratory data analysis to measure a performance using very specific indicators. 
+1.	I am planning to use Exploratory data analysis to measure a performance using very specific indicators. 
 
-o Sales by order ID of measure 
+	1.1 Sales by order ID of measure 
 
-o Order quantity by province measure
+	1.2 Order quantity by province measure
 
-o Order quantity Trend measure 
+	1.3 Order quantity Trend measure 
 
-o Sales by Top 5 Customers measure
+	1.4 Sales by Top 5 Customers measure
 
-
-• These outcomes will give us performance results and it is easy to compare with each other Stores aspects
+2.	These outcomes will give us performance results and it is easy to compare with each other Stores aspects
 
 
 
