@@ -41,13 +41,22 @@ Source of the dataset: Tableau Community
 The dataset attributes have following information:
 
 
-Attributes Name |
+Attributes Name | Attributes Name |
 
------------|----------------|---------------|--------------|---------------|--------------|-------------|
+----------------|-----------------|
 
-Row ID |	Order ID	| Order Date | Order Priority | Order Quantity | Sales | Discount | 
-Ship Mode |Profit | Unit Price | Shipping Cost | Customer Name | Province | Region | 
-Customer Segment | Product Category | Product Sub-Category | Product Name Product | Container | Product Base Margin | Ship Date |
+
+Row ID |	Order ID	| 
+Order Date | Order Priority | 
+Order Quantity | Sales | 
+Discount | Ship Mode |
+Profit | Unit Price | 
+Shipping Cost | Customer Name |
+Province | Region | 
+Customer Segment | Product Category | 
+Product Sub-Category | Product Name Product | 
+Container | Product Base Margin | 
+Ship Date |
 
 
 
