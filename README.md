@@ -27,7 +27,7 @@ Bhagyashree Chavan
 
 **Summary:**
 
-To analyze performance analysis, I have chosen the Canadian superstore from Tableau website at [Source](https://community.tableau.com/)
+To analyze performance analysis, I have chosen the Canadian superstore from Tableau website at [Source - reference](https://community.tableau.com/)
 
 
 This is a Canadian Superstore sales dataset where I will need to analyze the sales data and prepare a Dashboard. So, this project will help to the upper management so they can track metrics look at-a- glance view of current status of the sales in this Superstore.
@@ -41,7 +41,7 @@ Source of the dataset: Tableau Community
 The dataset attributes have following information:
 
 
-Attributes Name |
+Attributes Name |--------------|---------------|------------|---------------|--------------|-------------|
 
 |-----------|----------------|---------------|--------------|---------------|--------------|-------------|
 
