@@ -60,18 +60,23 @@ Customer Segment | Product Category | Product Sub-Category | Product Name Produc
 
 **Action Plans:**
 
-•	I am planning to use Exploratory data analysis to measure a performance using very specific indicators. 
-o	Sales by order ID of measure 
-o	Order quantity by province measure
-o	Order quantity Trend measure 
-o	Sales by Top 5 Customers measure.
-•	These outcomes will give us performance results and it is easy to compare with each other Stores aspects
+• I am planning to use Exploratory data analysis to measure a performance using very specific indicators. 
+	o Sales by order ID of measure 
+	o Order quantity by province measure
+	o Order quantity Trend measure 
+	o Sales by Top 5 Customers measure.
 
-Expectations:
+• These outcomes will give us performance results and it is easy to compare with each other Stores aspects
+
+
+
+**Expectations:**
 
 Apply all the knowledge of lessons learned in class, in additional try out more Business analytics techniques on the data set, to find out what could be more scope of study in different area. The main aim of project to gain experience in versatile Business analytics subject.
 
-Using Tools:
+
+
+**Using Tools:**
 
 I have decided to use Excel and functions such as Min, Max, Sum, Average, Count, Count IF, to ease analysis work. I will also use some of the different features of Excel like Dashboard, ICON Sets, Conditional formatting, Descriptive Statistics. This will be new function for me Use the Pivot Charts functionality to get dashboard the data.
 
