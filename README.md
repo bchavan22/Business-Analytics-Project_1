@@ -9,9 +9,9 @@ To find out Best Performance of store aspects categorizing. The main aim of proj
 
 
 
-##**Project Proposal**
+**##Project Proposal**
 
-##**Project Title: Performance of The Canadian Superstore with Exploratory Data Analysis**
+**##Project Title: Performance of The Canadian Superstore with Exploratory Data Analysis**
 
 
 
@@ -27,7 +27,7 @@ Bhagyashree Chavan
 
 **Summary:**
 
-To analyze performance analysis, I have chosen the Canadian superstore from Tableau website at https://community.tableau.com/
+To analyze performance analysis, I have chosen the Canadian superstore from Tableau website at [Source](https://community.tableau.com/)
 
 
 This is a Canadian Superstore sales dataset where I will need to analyze the sales data and prepare a Dashboard. So, this project will help to the upper management so they can track metrics look at-a- glance view of current status of the sales in this Superstore.
@@ -35,6 +35,7 @@ The dataset has 8400 rows and 21 features for analysis.
 
 I will be comparing the performance of the Stores in many ways for the 2009-2012 to determine which Store aspects is the best performer.
 I will be using various techniques and methodology taught during this course to perform analysis on selected dataset.
+
 Source of the dataset: Tableau Community
 
 The dataset attributes have following information:
@@ -45,15 +46,13 @@ Customer Segment	Product Category	Product Sub-Category	Product Name Product	Cont
 
 
 
-Objective: To find out Best Performance of store aspects categorizing.
+**Objective: To find out Best Performance of store aspects categorizing.**
 
 
 
 
 
-
-
-Action Plans: 
+**Action Plans:**
 
 •	I am planning to use Exploratory data analysis to measure a performance using very specific indicators. 
 o	Sales by order ID of measure 
