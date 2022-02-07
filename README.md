@@ -9,7 +9,7 @@ To find out Best Performance of store aspects categorizing. The main aim of proj
 
 
 
-## **Project Proposal**
+### **Project Proposal**
 
 ## **Project Title: Performance of The Canadian Superstore with Exploratory Data Analysis**
 
@@ -40,9 +40,22 @@ Source of the dataset: Tableau Community
 
 The dataset attributes have following information:
 
-Row ID	Order ID	Order Date	Order Priority	Order Quantity	Sales	Discount
-Ship Mode	Profit	Unit Price	Shipping Cost	Customer Name	Province	Region
-Customer Segment	Product Category	Product Sub-Category	Product Name Product	Container	Product Base Margin	Ship Date
+|-----------|----------------|---------------|--------------|---------------|--------------|-------------|
+
+Row ID |	Order ID	| Order Date | Order Priority | Order Quantity | Sales | Discount | 
+Ship Mode |Profit | Unit Price | Shipping Cost | Customer Name | Province Region | Customer Segment | Product Category | Product Sub-Category | Product Name Product | Container | Product Base Margin | 
+Ship Date |
+
+
+
+
+Row ID	Order ID	Order Date	
+Order Priority	Order Quantity	Sales	
+Discount Ship Mode	Profit	
+Unit Price	Shipping Cost	Customer Name	
+Province	Region Customer Segment	Product Category	
+Product Sub-Category	Product Name Product	Container	
+Product Base Margin	Ship Date
 
 
 
