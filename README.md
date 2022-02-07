@@ -41,8 +41,7 @@ Source of the dataset: Tableau Community
 The dataset attributes have following information:
 
 
-Attributes Name |--------------|---------------|------------|---------------|--------------|-------------|
-
+Attributes Name
 |-----------|----------------|---------------|--------------|---------------|--------------|-------------|
 
 Row ID |	Order ID	| Order Date | Order Priority | Order Quantity | Sales | Discount | 
