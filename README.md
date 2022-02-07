@@ -9,9 +9,9 @@ To find out Best Performance of store aspects categorizing. The main aim of proj
 
 
 
-**Project Proposal**
+## **Project Proposal**
 
-**Project Title: Performance of The Canadian Superstore with Exploratory Data Analysis**
+## **Project Title: Performance of The Canadian Superstore with Exploratory Data Analysis**
 
 
 
