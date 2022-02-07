@@ -56,8 +56,6 @@ Container | Product Base Margin |
 Ship Date |			|
 
 
-
-
 **Objective: To find out Best Performance of store aspects categorizing.**
 
 
@@ -67,13 +65,14 @@ Ship Date |			|
 **Action Plans:**
 
 • I am planning to use Exploratory data analysis to measure a performance using very specific indicators. 
-	o Sales by order ID of measure 
 
-	o Order quantity by province measure
+o Sales by order ID of measure 
 
-	o Order quantity Trend measure 
+o Order quantity by province measure
 
-	o Sales by Top 5 Customers measure
+o Order quantity Trend measure 
+
+o Sales by Top 5 Customers measure
 
 
 • These outcomes will give us performance results and it is easy to compare with each other Stores aspects
