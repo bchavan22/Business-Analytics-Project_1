@@ -88,3 +88,4 @@ Apply all the knowledge of lessons learned in class, in additional try out more 
 
 I have decided to use Excel and functions such as Min, Max, Sum, Average, Count, Count IF, to ease analysis work. I will also use some of the different features of Excel like Dashboard, ICON Sets, Conditional formatting, Descriptive Statistics. This will be new function for me Use the Pivot Charts functionality to get dashboard the data.
 
+
